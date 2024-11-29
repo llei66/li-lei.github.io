@@ -8,23 +8,8 @@
 #     - name: Languages
 #       value: English, German
 
-- title: Education
-  type: time_table
-  contents:
-    - title: B.Eng - M.Eng - Ph.D. in Information and Communication Engineering
-      institution: School of Information and Communication Engineering, University of Electronic Science and Technology of China
-      year: 2013 - 2023
-      description:
-        - <u>Supervisor:</u> <a href="https://www.sice.uestc.edu.cn/info/1302/5086.htm"><b>Prof. Zhenming Peng</b></a>
-        - <u>PhD Thesis:</u> Infrared Small Target Detection Combined with Sparse Representation and Deep Learning
-        # - title: Description 3.
-        #   contents:
-        #     - Sub-description 1.
-        #     - Sub-description 2.
-    - title: Visiting Ph.D. in Computer Science
-      institution: Department of Computer Science, University of Copenhagen
-      year: 2021 - 2022
-      description:
+#- title: Education
+
         - <u>Supervisor:</u> <a href="https://sporring.github.io/"><b>Prof. Jon Sporring</b></a>
     # - title: M.Eng. in Signal and Information Processing
     #   institution: School of Optoelectronic Infromation, University of Electronic Science and Technology of China
@@ -36,12 +21,12 @@
     #   year: 2013 - 2017
 
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Algorithm Researcher at <a href="https://www.sensetime.com/cn">SenseTime</a>
+# - title: Experience
+#  type: time_table
+#  contents:
+#    - title: Algorithm Researcher at <a href="https://www.sensetime.com/cn">SenseTime</a>
       # institution: Institute for Advanced Study, Princeton University
-      year: 2023 - Now
+#      year: 2023 - Now
       # description:
       #   - Description 1.
       #   - Description 2.
@@ -77,15 +62,6 @@
 #       year: 2015-now
 #       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2022
-      items: 
-        - 8th IEEE International Conference on Computer and Communications (ICCC) Best Paper and Best Presentation Award.
-    - year: 2020
-      items: 
-        - Joint doctoral scholarship awarded by <a href="https://www.csc.edu.cn/">China Scholarship Council (CSC)</a>.
 
 
 # - title: Academic Interests
