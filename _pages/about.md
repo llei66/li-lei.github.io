@@ -1,8 +1,8 @@
 ---
 layout: about
 title: About
-permalink: /
-subtitle: <b>Machine Learning Researcher</b> @ <a href="https://www.ku.dk/en">KU</a> and <b>Research Scientist</b> @ <a href="https://www.washington.edu/">UW</a>
+# permalink: /
+# subtitle: <b>Machine Learning Researcher</b> @ <a href="https://www.ku.dk/en">KU</a> and <b>Research Scientist</b> @ <a href="https://www.washington.edu/">UW</a>
 
 profile:
   align: right
@@ -13,9 +13,9 @@ profile:
 #    <p>123 your address street</p>
 #    <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
