@@ -6,7 +6,7 @@ subtitle: <b>Research Scientist</b> @ <a href="https://www.ku.dk/en">KU</a> and 
 
 profile:
   align: left
-  image: profile_image.jpeg
+  image: 
   image_circular: true # crops the image to make it circular
 #  address: >
 #    <p>555 your office number</p>
