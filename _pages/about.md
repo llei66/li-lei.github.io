@@ -2,12 +2,13 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b>Research Scientist</b> @ <a href="https://www.ku.dk/en">KU</a> and <a href="https://www.washington.edu/">UW</a>
+subtitle: <b>Researcher</b> @ <a href="https://www.ku.dk/en">KU</a> and <a href="https://www.washington.edu/">UW</a>
 
 profile:
   align: left
-  image: 
-  image_circular: true # crops the image to make it circular
+  image: profile_image.jpeg
+  image_circular: false # crops the image to make it circular
+  
 #  address: >
 #    <p>555 your office number</p>
 #    <p>123 your address street</p>
