@@ -19,16 +19,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hey, thanks for stopping by! 👋
-
-I am working as an algorithm researcher at [SenseTime](https://www.sensetime.com/cn) and a post doc at [THU](https://www.tsinghua.edu.cn/). My current research interests includes lightweight network design, multimodal large language models, diffusion models.
-
-<!-- I am pursuing a PhD at [the Laboratory of Imaging Detection and Intelligent Perecption (IDIP Lab)](http://idiplab.uestc.cn/) of [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), supresived by [Prof. Zhenming Peng](https://www.sice.uestc.edu.cn/info/1302/5086.htm) -->
-
-<!-- My PhD research is dedicated to developing trustworthy infrared small target detection methods and also extended to sparse representation, optimization, deep learning and deep unfolding networks. In collaboration with my colleagues, my research interests also include segmentation and image compressive sensing. -->
-
-Previously, I received my PhD degree from [UESTC](https://www.uestc.edu.cn/) (2023), supresived by [Prof. Zhenming Peng](https://www.sice.uestc.edu.cn/info/1302/5086.htm), and worked at [the Laboratory of Imaging Detection and Intelligent Perecption (IDIP Lab)](http://idiplab.uestc.cn/). My PhD research is dedicated to developing trustworthy infrared small target detection methods and also extended to sparse representation, optimization, deep learning and deep unfolding networks.
-
-Over the past few years, I had the pleasure of being funded by [China Scholarship Council (CSC)](https://www.csc.edu.cn/) and working at the [Image Section](https://di.ku.dk/english/research/imagesection/) of [Department of Computer Science](https://di.ku.dk/english/), [University of Copenhagen](https://www.ku.dk/english/) as a visiting PhD, supervised by [Prof. Jon Sporring](https://sporring.github.io/). 
-
-<!-- Previously, I received a Bachelor’s degree from [UESTC](https://www.uestc.edu.cn/) (2017). And I had the pleasure of working at the [Image Section](https://di.ku.dk/english/research/imagesection/) of [Department of Computer Science](https://di.ku.dk/english/), [University of Copenhagen](https://www.ku.dk/english/) as a visiting PhD, supervised by [Prof. Jon Sporring](https://sporring.github.io/) and funded by [China Scholarship Council (CSC)](https://www.csc.edu.cn/). -->
+  My name is Lei Li, and I am a Research Scientist at the University of Copenhagen and the University of Washington, associated with the Pioneer Centre for AI. I am advised by [Serge Belongie](https://www.belongielab.org/), and [Jenq-Neng Hwang](https://people.ece.uw.edu/hwang/) I completed my PhD in Machine Learning at the University of Copenhagen, advised by [Christian Igel](https://christian-igel.github.io/), focusing on multimodal representation learning and deep learning for 3D understanding.
