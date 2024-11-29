@@ -4,14 +4,14 @@ title: About
 permalink: /
 subtitle: <b>Researcher</b> @ <a href="https://www.ku.dk/en">KU</a> and <a href="https://www.washington.edu/">UW</a>
 
-profile:
-  align: right
-  image: profile_image.jpeg
-  image_circular: false # crops the image to make it circular
+# profile:
+#  align: right
+#  image: 
+#  image_circular: false # crops the image to make it circular
   
 #  address: >
 #    <p>555 your office number</p>
-#    <p>123 your address street</p>
+#    <p>123 your address street</p> profile_image.jpeg
 #    <p>Your City, State 12345</p>
 
 news: false  # includes a list of news items
