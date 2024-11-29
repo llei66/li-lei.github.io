@@ -4,7 +4,7 @@ title: About
 permalink: /
 subtitle: <b>Researcher</b> @ <a href="https://www.ku.dk/en">KU</a> and <a href="https://www.washington.edu/">UW</a>
 
- profile:
+profile:
   align: right
   image: 
   image_circular: false # crops the image to make it circular
