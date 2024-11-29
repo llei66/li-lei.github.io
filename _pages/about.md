@@ -1,8 +1,8 @@
 ---
 layout: about
 title: About
-# permalink: /
-# subtitle: <b>Machine Learning Researcher</b> @ <a href="https://www.ku.dk/en">KU</a> and <b>Research Scientist</b> @ <a href="https://www.washington.edu/">UW</a>
+permalink: /
+subtitle: <b>Research Scientist</b> @ <a href="https://www.ku.dk/en">KU</a> and <a href="https://www.washington.edu/">UW</a>
 
 profile:
   align: right
