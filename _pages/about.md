@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b>Researcher</b> @ <a href="https://www.ku.dk/en">KU</a> and <a href="https://www.washington.edu/">UW</a>
+# subtitle: <b>Researcher</b> @ <a href="https://www.ku.dk/en">KU</a> and <a href="https://www.washington.edu/">UW</a>
 
 profile:
   align: right
@@ -20,7 +20,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-  My name is Lei Li, and I am a Researcher at the [University of Washington](https://www.washington.edu/) and [University of Copenhagen](https://www.ku.dk/en), associated with the [Pioneer Centre for AI](https://www.aicentre.dk/). I am Chief Scientist and Managing Director at AIthinktank. I was a visiting scholar at Stanford University and University of Waterloo and a Researcher at [SenseTime](https://www.sensetime.com/en), ByteDance, and Intel Lab. 
+  My name is Lei Li, and I am interested in Multimodal representation learning and generative AI. I was a researcher at the [University of Washington](https://www.washington.edu/) and [University of Copenhagen](https://www.ku.dk/en), associated with the [Pioneer Centre for AI](https://www.aicentre.dk/). I am Chief Scientist and Managing Director at AIthinktank. I was a visiting scholar at Stanford University and University of Waterloo and a Researcher at [SenseTime](https://www.sensetime.com/en), ByteDance, and Intel Lab. 
 
   ‘I'm hitchhiking through the galaxy when a Vogon stops me and says, 'Your dribbling form is awful!' I reply, 'Don't panic—I'm just practicing my interstellar crossover!'
   
